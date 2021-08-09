@@ -1,0 +1,4 @@
+appx	458
+appy	240
+lastgame	andrea h	21-08-08 19:36:41
+lastsort	by status by name
